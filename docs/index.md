@@ -1,30 +1,23 @@
-## Welcome to GitHub Pages
+## Welcome to Sierra Analytica LLC
 
-You can use the [editor on GitHub](https://github.com/SierraAnalytica/SierraAnalytica.github.io/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
+We are a data science consulting firm for businesses looking to join the AI/ML revolution. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### What we can do
+Our core expertise include 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# 1. Data science consulting 
+**Get out of the evil trap of spreadsheets!**
+Developing end to end solutions from _data mining -> data analytics modules -> presentation dashboards_ to promote a data driven decision making that does not require an army of analysts 
 
-```markdown
-Syntax highlighted code block
+# 2. Unlock value in the legacy data
+**Wondering what is all the leagcy data you have been sitting on good for? Good news!**
+In this knowledge economy, data is the new gold! If you have legacy data, chances are you are sitting on a goldmine that you didn't realize.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+# 3. Edge computing 
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
