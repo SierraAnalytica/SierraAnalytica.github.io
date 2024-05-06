@@ -3,11 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SIERRA ANALYTICA</title>
+    <title>Your Company Name</title>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap">
     <style>
         body {
-            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
             margin: 0;
             padding: 0;
             box-sizing: border-box;
@@ -73,11 +72,11 @@
 <body>
     <div class="container">
         <img src="your-logo.png" alt="Your Company Logo" class="logo">
-        <h1>SIERRA ANALYTICA</h1>
-        <p>About us: Data Science consulting for Renewables.</p>
+        <h1>Your Company Name</h1>
+        <p>About us: Write a brief description of your company here.</p>
         <div class="contact-form">
             <h2>Contact Us</h2>
-            <form action="mailto:chetan@sierraanalytica.com" method="post" enctype="text/plain">
+            <form action="mailto:your_email@example.com" method="post" enctype="text/plain">
                 <div class="form-group">
                     <label for="name">Name:</label>
                     <input type="text" id="name" name="name" required>
@@ -98,4 +97,3 @@
     </div>
 </body>
 </html>
-
